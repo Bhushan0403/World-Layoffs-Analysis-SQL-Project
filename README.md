@@ -1,0 +1,1 @@
+# World-Layoffs-Analysis-SQL-Project
